@@ -3,7 +3,7 @@ import AgoraRTC from "agora-rtc-sdk-ng";
 import { VideoPlayer } from "./VideoPlayer";
 
 const APP_ID = "c219b498a2c34b99aea044e43bdd6963";
-const TOKEN = "007eJxTYOCfFVJwQ+i9m6zyz1Nn2i+oOZvdV/PpnzDTxm+rpU7VhwAFhmQjQ8skE0uLRKNkY5MkS8vE1EQDE5NUE+OklBQzSzPjG99d0xoCGRm4+eoZGRkgEMQXYEhMzy9K1C3LTEnN101OzMlhYAAAjcUinw=="
+const TOKEN = "007eJxTYJA1O/qMI6j6/bcvLzhj/i64qM+Z9l/i3DmX2Jw9r4NqSrgVGJKNDC2TTCwtEo2SjU2SLC0TUxMNTExSTYyTUlLMLM2Mj8j4pzUEMjJozPBlZWSAQBBfgCExPb8oUbcsMyU1Xzc5MSeHgQEAPEAkNA=="
 const CHANNEL = "agora-video-call";
 
 const client = AgoraRTC.createClient({
